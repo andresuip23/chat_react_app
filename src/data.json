@@ -1,0 +1,67 @@
+[
+    {
+        "Nickname": "Juan123",
+        "DpPic": "https://example.com/dp1.jpg",
+        "LastMessage": "¿Cómo estás?"
+    },
+    {
+        "Nickname": "MariaS",
+        "DpPic": "https://example.com/dp2.jpg",
+        "LastMessage": "Nos vemos mañana."
+    },
+    {
+        "Nickname": "CarlosG",
+        "DpPic": "https://example.com/dp3.jpg",
+        "LastMessage": "¡Feliz cumpleaños!"
+    },
+    {
+        "Nickname": "Ana87",
+        "DpPic": "https://example.com/dp4.jpg",
+        "LastMessage": "Gracias por todo."
+    },
+    {
+        "Nickname": "PedroP",
+        "DpPic": "https://example.com/dp5.jpg",
+        "LastMessage": "¿Qué planes para hoy?"
+    },
+    {
+        "Nickname": "SofiaL",
+        "DpPic": "https://example.com/dp6.jpg",
+        "LastMessage": "Te llamo más tarde."
+    },
+    {
+        "Nickname": "LuisaM",
+        "DpPic": "https://example.com/dp7.jpg",
+        "LastMessage": "¿Dónde estás?"
+    },
+    {
+        "Nickname": "MiguelR",
+        "DpPic": "https://example.com/dp8.jpg",
+        "LastMessage": "No puedo ir hoy."
+    },
+    {
+        "Nickname": "DanielaC",
+        "DpPic": "https://example.com/dp9.jpg",
+        "LastMessage": "¡Qué bueno verte!"
+    },
+    {
+        "Nickname": "AndresF",
+        "DpPic": "https://example.com/dp10.jpg",
+        "LastMessage": "Llámame cuando puedas."
+    },
+    {
+        "Nickname": "LuisaM",
+        "DpPic": "https://example.com/dp7.jpg",
+        "LastMessage": "¿Dónde estás?"
+    },
+    {
+        "Nickname": "MiguelR",
+        "DpPic": "https://example.com/dp8.jpg",
+        "LastMessage": "No puedo ir hoy."
+    },
+    {
+        "Nickname": "DanielaC",
+        "DpPic": "https://example.com/dp9.jpg",
+        "LastMessage": "¡Qué bueno verte!"
+    }
+]
